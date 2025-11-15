@@ -162,14 +162,14 @@ mediconnect/
 └── package.json                # Frontend dependencies
 ```
 
-## 🎨 Design System
+## Design System
 
-### Color Palette (Minimal Desert Sand)
-- **Background**: `#FAF3E0` (Sand White)
-- **Primary**: `#D4A373` (Warm Clay)  
-- **Secondary**: `#6D6875` (Muted Ash)
-- **Accent**: `#B5838D` (Rose Mauve)
-- **Text**: `#3D405B` (Deep Charcoal)
+### Color Palette (Modern Teal & White)
+- **Background**: `#FFFFFF` (Pure White)
+- **Primary**: `#0D9488` (Sophisticated Teal)  
+- **Secondary**: `#0F766E` (Darker Teal)
+- **Accent**: `#14B8A6` (Light Teal)
+- **Text**: `#111827` (Gray-900) / `#4B5563` (Gray-600)
 
 ### UI Principles
 - Glassmorphism design with subtle blur effects
